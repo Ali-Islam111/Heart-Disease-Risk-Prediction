@@ -22,6 +22,7 @@ Short summary of what we did in the project:
 - **Supervised learning** — trained classifiers to predict `target` (heart disease), evaluated with probability scores and metrics.  
 - **Unsupervised learning** — clustering / exploratory methods to inspect structure in the data.  
 - **Hyperparameter tuning** — grid/random search to obtain the final tuned pipeline.
+- **Web Deployment** — Deploying the final pipeline on streamlit + ngrok.
 
 Final model artifact: `final_tuned_pipeline.pkl` (used by the Streamlit app).
 
